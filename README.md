@@ -7,7 +7,7 @@
 ### **About Myself:**
 
 - 🐱‍🏍 fullstack dev
-- 🚀 Machine Learning Engineer. ⚛ Blockchain enthusiast.
+  
 
 ### **About Personal Stuffs:**
 
