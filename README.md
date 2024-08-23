@@ -5,7 +5,7 @@
 <br />
 
 ### **About Myself:**
-
+- 😎 my portfolio https://my-portfolio-five-gilt-44.vercel.app/
 - 🐱‍🏍 fullstack dev
 
 ### **About Personal Stuffs:**
