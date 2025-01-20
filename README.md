@@ -20,7 +20,10 @@
 - CSS
 - JAVA SCRIPT
 - REACT.JS
+- Tailwind.css
+- Sass
+- antD
 - NEXT.JS
 - THREE.JS
-- NODE
-- EXPRESS
+- NODE.JS
+- EXPRESS.JS
