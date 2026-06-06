@@ -12,7 +12,7 @@
 <br/>
 
 <!-- Profile Views & Socials -->
-<img src="https://komarev.com/ghpvc/?username=jeevanandham&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=jeevanandham5&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
 <a href="mailto:jeevajeevanandham30@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -70,15 +70,17 @@ const jeevanandham = {
 
 ## 📊 GitHub Stats
 
+> ✅ Username set to `jeevanandham5` — these will load your real GitHub data automatically.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeevanandham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeevanandham5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanandham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanandham5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanandham&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com?user=jeevanandham5&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
@@ -86,16 +88,20 @@ const jeevanandham = {
 
 ## 🏆 GitHub Trophies
 
+> Uses `github-profile-trophy` — works once your username is correct.
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevanandham&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevanandham5&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
+> ⚠️ This requires a one-time GitHub Actions setup. See instructions below ↓
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jeevanandham/jeevanandham/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jeevanandham5/jeevanandham5/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -103,14 +109,13 @@ const jeevanandham = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanandham&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanandham5&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
 
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
 **Built with ❤️ by Jeevanandham.v**
