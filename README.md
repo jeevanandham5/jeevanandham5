@@ -88,8 +88,15 @@ const jeevanandham = {
 
 
 
+## 🏆 Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevanandham5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+![Commits](https://img.shields.io/badge/Total%20Commits-120%2B-a78bfa?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-15%2B-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![PRs](https://img.shields.io/badge/Pull%20Requests-Open%20to%20Collab-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/2026%20Goal-Fullstack%20Pro-a78bfa?style=for-the-badge&logo=rocket&logoColor=white)
+
 </div>
 
 ---
