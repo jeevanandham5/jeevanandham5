@@ -86,12 +86,10 @@ const jeevanandham = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-> Uses `github-profile-trophy` — works once your username is correct.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevanandham5&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevanandham5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 </div>
 
 ---
