@@ -72,13 +72,7 @@ const jeevanandham = {
 
 
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeevanandham5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanandham5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=jeevanandham5&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
