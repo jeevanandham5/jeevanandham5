@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jeevan+%F0%9F%91%8B%F0%9F%8F%BD;Fullstack+Developer+%F0%9F%9A%80;Building+the+web%2C+one+commit+at+a+time;React+%7C+Next.js+%7C+Node.js+%7C+Three.js" alt="Typing SVG" />
 </a>
-<div align="center">
+
 
 
 <!-- Profile Views & Socials -->
@@ -69,7 +69,7 @@ const jeevanandham = {
 
 ## 📊 GitHub Stats
 
-
+<div align="center">
 
 <br/><br/>
 
