@@ -9,7 +9,7 @@
 </a>
 
 <br/><br/>
-<div align="center">
+
 <!-- Profile Views & Socials -->
 <img src="https://komarev.com/ghpvc/?username=jeevanandham5&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
