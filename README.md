@@ -70,7 +70,7 @@ const jeevanandham = {
 
 ## 📊 GitHub Stats
 
-> ✅ Username set to `jeevanandham5` — these will load your real GitHub data automatically.
+
 
 <div align="center">
 
@@ -103,7 +103,7 @@ const jeevanandham = {
 
 ## 🐍 Contribution Snake
 
-> ⚠️ This requires a one-time GitHub Actions setup. See instructions below ↓
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jeevanandham5/jeevanandham5/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
